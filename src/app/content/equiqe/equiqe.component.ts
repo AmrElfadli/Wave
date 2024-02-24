@@ -14,7 +14,11 @@ export class EquiqeComponent {
     'assets/tele2.jpg',
     'assets/tele3.jpg',
     'assets/tele4.jpg',
-    'assets/tele5.jpg'
+    'assets/tele5.jpg',
+    'assets/tele5.jpg',
+    'assets/tele6.jpg',
+    'assets/tele7.jpg',
+    'assets/tele8.jpg'
   ];
   currentIndex = 0;
   slideWidth!: number;
