@@ -42,7 +42,7 @@ section{
     position: absolute;
     width: 150%;
     height: 120%;
-    background: linear-gradient(to top, rgb(14, 14, 14) 12%, rgba(14, 14, 14, 0) 80%);
+    background: linear-gradient(to top, rgb(14, 14, 14) 15%, rgba(14, 14, 14, 0) 80%);
     z-index: 9;
 }
 img{
